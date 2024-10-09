@@ -7,6 +7,7 @@
 - [Finite State Machine](#finite-state-machine)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demonstration](#demonstration)
 
   
 ## Summary
@@ -101,4 +102,14 @@ Try the following commands. Some will return errors which will be dealt with on 
 19. ACU57ABC-V-BrownsLane (ERROR)
 20. A-GF23WSN- L- BrownsLane
 
-   
+
+## Demonstration
+
+**View the video demo here:** <a href="https://drive.google.com/file/d/1NDQdR6Jtogk-8IDQieK_AAFlUsNCrR9V/view?usp=share_link">Arduino Video Demo</a>
+
+<div align = center>
+<img width="40%" alt="Screenshot 2024-10-09 at 08 43 22" src="https://github.com/user-attachments/assets/988c88d0-e9f0-43cf-b5c2-2fcf90b221d6">
+
+<img width="40%" alt="Screenshot 2024-10-09 at 08 43 08" src="https://github.com/user-attachments/assets/d459bcea-34c3-4bc9-8935-71e5b22617e1">
+
+</div>
